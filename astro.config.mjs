@@ -6,3 +6,5 @@ export default defineConfig({
     site: 'https://pokemon-blaze-black-2.github.io',
     base: 'pokemon-blaze-black-2.github.io',
 });
+
+

@@ -52,12 +52,12 @@ This **Redux** version is an improved version of the original **Blaze Black 2**!
 
 ## Screenshots
 
-![Pokemon Blaze Black 2 Game Screenshot 1](/public/pokemon-blaze-black-2-a.webp)
-![Pokemon Blaze Black 2 Game Screenshot 2](/public/pokemon-blaze-black-2-b.webp)
-![Pokemon Blaze Black 2 Game Screenshot 3](/public/pokemon-blaze-black-2-c.webp)
-![Pokemon Blaze Black 2 Game Screenshot 4](/public/pokemon-blaze-black-2-d.webp)
-![Pokemon Blaze Black 2 Game Screenshot 5](/public/pokemon-blaze-black-2-e.webp)
-![Pokemon Blaze Black 2 Game Screenshot 6](/public/pokemon-blaze-black-2-f.webp)
+![Pokemon Blaze Black 2 Game Screenshot 1](pokemon-blaze-black-2-a.webp)
+![Pokemon Blaze Black 2 Game Screenshot 2](pokemon-blaze-black-2-b.webp)
+![Pokemon Blaze Black 2 Game Screenshot 3](pokemon-blaze-black-2-c.webp)
+![Pokemon Blaze Black 2 Game Screenshot 4](pokemon-blaze-black-2-d.webp)
+![Pokemon Blaze Black 2 Game Screenshot 5](pokemon-blaze-black-2-e.webp)
+![Pokemon Blaze Black 2 Game Screenshot 6](pokemon-blaze-black-2-f.webp)
 
 ## Useful Stuff
 [documentation](https://drive.google.com/drive/folders/1wVz7qTdZh8kn0Du9bmMKuXlrQRBeF01d)<br>
